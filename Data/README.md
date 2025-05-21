@@ -6,14 +6,14 @@ This folder contains two sample datasets:
 
 Due to GitHub's file size limit, only the first 1000 rows of each dataset are uploaded here.
 
-### 📥 Full Dataset Download
+###  Full Dataset Download
 
 You can download the complete original datasets from the following links:
 
 - **Dataset:** [(https://tianchi.aliyun.com/competition/entrance/531830/information)]
 ---
 
-### 📊 Field Descriptions
+###  Field Descriptions
 
 | Field | 中文释义 | Description |
 |-------|-----------|-------------|
